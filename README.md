@@ -47,7 +47,7 @@ An end-to-end streaming data pipeline demonstrating modern data engineering prac
   - [📊 Monitoring \& Observability](#-monitoring--observability)
     - [Databricks SQL Dashboard](#databricks-sql-dashboard)
     - [Metrics Tracked](#metrics-tracked)
-  - [🔮 Future Enhancements](#-future-enhancements)
+  - [Future Enhancements](#future-enhancements)
   - [Author](#author)
   - [📄 License](#-license)
   - [🙏 Acknowledgments](#-acknowledgments)
@@ -525,7 +525,7 @@ The Gold layer powers a real-time dashboard showing:
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - [ ] Add sentiment analysis from crypto news/Twitter
 - [ ] Implement real-time anomaly detection with streaming ML
@@ -557,3 +557,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Confluent](https://www.confluent.io/) for Kafka cloud platform
 - [Databricks](https://www.databricks.com/) for the lakehouse platform
 - [Delta Lake](https://delta.io/) for the open table format
+- [Coding Music](https://www.youtube.com/live/7iXq4FoCFjo?si=V7UHFBRC-6dOkDEi) for getting in the zone
+
