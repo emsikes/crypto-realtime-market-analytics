@@ -1,0 +1,30 @@
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+*.pem
+*.key
+secrets/
+
+# Data files
+data/
+*.parquet
+*.csv
+
+# OS
+.DS_Store
+
+# Databricks
+.databricks/
+*.egg-info/
+
+# Checkpoints
+checkpoints/
