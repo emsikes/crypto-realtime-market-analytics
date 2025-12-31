@@ -84,6 +84,11 @@ class CoinGeckoClient:
 
         data = response.json()
 
+        # Log any missing coins
+        missing = set(coin_ids) - set(data.keys())
+        if missing:
+            logger.warning(f"Coins not returned by API: {missing}")
+
         # Transform each coin's data into our message format
         messages = []
         for coin_id, coin_data in data.items():

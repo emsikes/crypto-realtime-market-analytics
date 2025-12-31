@@ -9,7 +9,7 @@ TRACKED_COINS = [
     "ethereum",
     "solana",
     "cardano",
-    "polygon",
+    "matic-network",
     "chainlink",
     "avalanche-2",
     "polkadot",
